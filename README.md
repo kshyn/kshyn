@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kshyn
-- 👀 I’m interested in using machine learning and data analysis for environmental sciences.
+- 👀 I’m interested in using machine learning and data analysis for environmental science.
 - 🌱 I’m currently learning Python and R.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
